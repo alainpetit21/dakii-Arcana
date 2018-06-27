@@ -1,0 +1,33 @@
+<ENTITY>
+	<NB_OBJECTS>2</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CLabel</TYPE>
+		<ID>LblGUIPlaceName</ID>
+		<FILENAME>LblGUIPlaceName.label</FILENAME>
+		<POS_X>4</POS_X>
+		<POS_Y>-33</POS_Y>
+		<POS_Z>-1</POS_Z>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CEntity</TYPE>
+		<ID>EntGUIBoussole</ID>
+		<FILENAME>EntGUIBoussole.entity</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>16</POS_Y>
+		<POS_Z>-1</POS_Z>
+	</OBJECT>
+
+	<NB_FRAMES>1</NB_FRAMES>
+	<FRAME>
+		<FILENAME>Sprite/GUI/EntGUIPane.png</FILENAME>
+		<POS_X>188</POS_X>
+		<POS_Y>67</POS_Y>
+	</FRAME>
+
+	<NB_STATES>1</NB_STATES>
+	<STATE>
+		<FLAG>0</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+
+</ENTITY>

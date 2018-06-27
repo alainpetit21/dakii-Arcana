@@ -1,0 +1,1437 @@
+# depslib dependency file v1.0
+1252987959 source:/home/alain/Work/Dakiisoft/Code/Games/Arcana/AppArcana.cpp
+	"lib.h"
+	"libTypes.h"
+	"libMacros.h"
+	"AppArcana.h"
+	"CtxLogoDakiisoft.h"
+	"CtxLogoHal.h"
+	"CtxPrologue.h"
+	"CtxTitle.h"
+	"CtxStory.h"
+	"CtxDungeon.h"
+	"CtxNewChapter.h"
+	"CtxCity.h"
+
+1184862462 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/lib.h
+	"./win32DX7/lib_win32dx7.h"
+	"./win32DX9/lib_win32dx9.h"
+	"./win32OpenGL/lib_win32OpenGL.h"
+	"./gp2x/lib_gp2x.h"
+	"./linux/lib_linux.h"
+
+1180903315 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/gp2x/lib_gp2x.h
+	<memory.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"XMLLoader.h"
+
+1253160502 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/helper/XMLLoader.h
+	<string.h>
+	"libTypes.h"
+	"DString.h"
+
+1253160502 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libTypes.h
+	"./win32DX7/libTypes_win32dx7.h"
+	"./linux/libTypes_win32dx9.h"
+	"./win32OpenGL/libTypes_win32OpenGL.h"
+	"./gp2x/libTypes_gp2x.h"
+	"./linux/libTypes_linux.h"
+
+1177411974 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/gp2x/libTypes_gp2x.h
+
+1184714149 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libTypes_linux.h
+
+1161829949 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/helper/DString.h
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/lib_linux.h
+	<memory.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<XMLLoader.h>
+
+1253379036 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMacros.h
+	"lib.h"
+	"dfc.h"
+	"dfcObj.h"
+	"DString.h"
+	"./win32DX7/libMacros_win32dx7.h"
+	"./win32DX7/libMacros_win32dx9.h"
+	"./win32OpenGL/libMacros_win32OpenGL.h"
+	"./gp2x/libMacros_gp2x.h"
+	"./linux/libMacros_linux.h"
+
+1165207333 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfc.h
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcObj.h
+	"lib.h"
+	"libTypes.h"
+	"dfc.h"
+	"libMngIO.h"
+
+1253041756 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMngIO.h
+	"libTypes.h"
+
+1180903315 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/gp2x/libMacros_gp2x.h
+
+1253042550 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libMacros_linux.h
+
+1161411996 /home/alain/Work/Dakiisoft/Code/Games/Arcana/AppArcana.h
+	"dfcApp.h"
+	"dfcFont.h"
+	"MngArcanaRPG.h"
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcApp.h
+	"libTypes.h"
+	"dfcContext.h"
+	"dfcDictionary.h"
+	"dfcFont.h"
+
+1253161930 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcContext.h
+	"libTypes.h"
+	"dfcObj.h"
+	"dfcEntity.h"
+	"dfcBackground.h"
+	"dfcButton.h"
+	"dfcCamera.h"
+
+1253041690 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcEntity.h
+	"libMngGraphic.h"
+	"dfcPhysObj.h"
+
+1184862493 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMngGraphic.h
+	"libTypes.h"
+	"./win32DX7/libMngGraphic_win32dx7.h"
+	"./win32OpenGL/libMngGraphic_win32OpenGL.h"
+	"./gp2x/libMngGraphic_gp2x.h"
+	"./linux/libMngGraphic_linux.h"
+
+1185640472 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/gp2x/libMngGraphic_gp2x.h
+	<math.h>
+	<SDL/SDL.h>
+	"libMath.h"
+
+1253040711 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMath.h
+	<stdio.h>
+	<memory.h>
+	"libTypes.h"
+	"math.h"
+
+1253160848 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libMngGraphic_linux.h
+	<math.h>
+	<SDL/SDL.h>
+	"libMath.h"
+
+1253379233 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcPhysObj.h
+	"dfcObj.h"
+	"libMath.h"
+
+1253076100 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcBackground.h
+	"libTypes.h"
+	"libMngGraphic.h"
+	"dfcPhysObj.h"
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcButton.h
+	"dfcEntity.h"
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcCamera.h
+	"libTypes.h"
+	"dfcPhysObj.h"
+
+1253076100 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcDictionary.h
+	"libTypes.h"
+	"DString.h"
+
+1253076100 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcFont.h
+	"libMngGraphic.h"
+	"dfcObj.h"
+
+1161411996 /home/alain/Work/Dakiisoft/Code/Games/Arcana/MngArcanaRPG.h
+	"dfcRPGEngine.h"
+
+1161412391 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcRPGEngine.h
+	"DString.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxLogoDakiisoft.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1253041690 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfc3DEntity.h
+	"dfcEntity.h"
+	"libMng3D.h"
+
+1184862571 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMng3D.h
+	"./win32DX7/libMng3D_win32dx7.h"
+	"./win32OpenGL/libMng3D_win32OpenGL.h"
+	"./gp2x/libMng3D_gp2x.h"
+	"./linux/libMng3D_linux.h"
+
+1184714468 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/gp2x/libMng3D_gp2x.h
+	<math.h>
+	"libTypes.h"
+	"libMath.h"
+
+1253160427 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libMng3D_linux.h
+	<math.h>
+	"libTypes.h"
+	"libMath.h"
+
+1253161707 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcLabel.h
+	"dfcPhysObj.h"
+	"dfcFont.h"
+
+1253160427 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcSound.h
+	<tremor/ogg.h>
+	<tremor/ivorbisfile.h>
+	<ogg/ogg.h>
+	<vorbis/vorbisfile.h>
+	"dfcPhysObj.h"
+
+1253041690 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcMusic.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	"dfcSound.h"
+
+1161411996 /home/alain/Work/Dakiisoft/Code/Games/Arcana/game.h
+	"dfc.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxLogoHal.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcBackground.h"
+	"game.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxPrologue.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxTitle.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxStory.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+	"game.h"
+
+1253378496 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcSceneEngine.h
+	"DString.h"
+	"XMLLoader.h"
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfcSceneNodes.h
+	"dfcSceneEngine.h"
+	"dfcLabel.h"
+	"dfcEntity.h"
+	"dfcMusic.h"
+
+1253378705 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxDungeon.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfc3DMaze.h"
+	"dfcSceneEngine.h"
+	"MngGUIArcana.h"
+	"game.h"
+
+1253160424 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/dfc/dfc3DMaze.h
+	"dfc3DEntity.h"
+
+1253160429 /home/alain/Work/Dakiisoft/Code/Games/Arcana/MngGUIArcana.h
+	"dfcContext.h"
+	"dfcLabel.h"
+	"CEntGUIMenuChangeColorGauge.h"
+
+1161411996 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CEntGUIMenuChangeColorGauge.h
+	"dfcEntity.h"
+	"game.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxNewChapter.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxCity.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcSceneEngine.h"
+	"MngGUIArcana.h"
+	"game.h"
+
+1161980023 source:/home/alain/Work/Dakiisoft/Code/Games/Arcana/CEntGUIMenuChangeColorGauge.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"CEntGUIMenuChangeColorGauge.h"
+	"AppArcana.h"
+
+1253378678 source:/home/alain/Work/Dakiisoft/Code/Games/Arcana/CtxCity.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+	"CtxCity.h"
+	"CEntGUIMenuChangeColorGauge.h"
+	"AppArcana.h"
+
+1184887884 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMngInput.h
+	"./win32DX7/libMngInput_win32dx7.h"
+	"./win32OpenGL/libMngInput_win32OpenGL.h"
+	"./gp2x/libMngInput_gp2x.h"
+	"./linux/libMngInput_linux.h"
+
+1253160427 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libMngInput_linux.h
+	<SDL/SDL.h>
+
+1184887893 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/libMngSound.h
+	"libTypes.h"
+	"./win32DX7/libMngSound_win32dx7.h"
+	"./win32OpenGL/libMngSound_win32OpenGL.h"
+	"./gp2x/libMngSound_gp2x.h"
+	"./linux/libMngSound_linux.h"
+
+1253160427 /home/alain/Work/Dakiisoft/Code/Games/Arcana/dakiilib/lib/linux/libMngSound_linux.h
+	<vorbis/codec.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL_mixer.h>
+
+1530058937 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/AppArcana.cpp
+	"lib.h"
+	"libTypes.h"
+	"libMacros.h"
+	"AppArcana.h"
+	"CtxLogoDakiisoft.h"
+	"CtxLogoHal.h"
+	"CtxPrologue.h"
+	"CtxTitle.h"
+	"CtxStory.h"
+	"CtxDungeon.h"
+	"CtxNewChapter.h"
+	"CtxCity.h"
+
+1529677530 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/lib.h
+	"./win32DX7/lib_win32dx7.h"
+	"./win32DX9/lib_win32dx9.h"
+	"./win32OpenGL/lib_win32OpenGL.h"
+	"./gp2x/lib_gp2x.h"
+	"./linux/lib_linux.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/lib_linux.h
+	<memory.h>
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<XMLLoader.h>
+
+1253160502 /home/apetit/Work/Dakiisoft/Code/dakiilib/helper/XMLLoader.h
+	<string.h>
+	"libTypes.h"
+	"DString.h"
+
+1253160502 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libTypes.h
+	"./win32DX7/libTypes_win32dx7.h"
+	"./linux/libTypes_win32dx9.h"
+	"./win32OpenGL/libTypes_win32OpenGL.h"
+	"./gp2x/libTypes_gp2x.h"
+	"./linux/libTypes_linux.h"
+
+1184714149 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libTypes_linux.h
+
+1161829949 /home/apetit/Work/Dakiisoft/Code/dakiilib/helper/DString.h
+
+1529677530 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMacros.h
+	<cstring>
+	<cstdio>
+	"lib.h"
+	"dfc.h"
+	"dfcObj.h"
+	"DString.h"
+	"./win32DX7/libMacros_win32dx7.h"
+	"./win32DX7/libMacros_win32dx9.h"
+	"./win32OpenGL/libMacros_win32OpenGL.h"
+	"./gp2x/libMacros_gp2x.h"
+	"./linux/libMacros_linux.h"
+
+1165207333 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc.h
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcObj.h
+	"lib.h"
+	"libTypes.h"
+	"dfc.h"
+	"libMngIO.h"
+
+1253041756 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngIO.h
+	"libTypes.h"
+
+1253042550 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMacros_linux.h
+
+1161411996 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/AppArcana.h
+	"dfcApp.h"
+	"dfcFont.h"
+	"MngArcanaRPG.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcApp.h
+	"libTypes.h"
+	"dfcContext.h"
+	"dfcDictionary.h"
+	"dfcFont.h"
+
+1253161930 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcContext.h
+	"libTypes.h"
+	"dfcObj.h"
+	"dfcEntity.h"
+	"dfcBackground.h"
+	"dfcButton.h"
+	"dfcCamera.h"
+
+1253041690 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcEntity.h
+	"libMngGraphic.h"
+	"dfcPhysObj.h"
+
+1184862493 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngGraphic.h
+	"libTypes.h"
+	"./win32DX7/libMngGraphic_win32dx7.h"
+	"./win32OpenGL/libMngGraphic_win32OpenGL.h"
+	"./gp2x/libMngGraphic_gp2x.h"
+	"./linux/libMngGraphic_linux.h"
+
+1529970081 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngGraphic_linux.h
+	<math.h>
+	<SDL.h>
+	"libMath.h"
+
+1519922081 /usr/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1526927947 /usr/include/SDL2/SDL_config.h
+	"SDL_config-i386.h"
+	"SDL_config-ia64.h"
+	"SDL_config-ppc64.h"
+	"SDL_config-ppc64le.h"
+	"SDL_config-ppc.h"
+	"SDL_config-s390x.h"
+	"SDL_config-s390.h"
+	"SDL_config-x86_64.h"
+	"SDL_config-arm.h"
+	"SDL_config-alpha.h"
+	"SDL_config-sparc64.h"
+	"SDL_config-sparc.h"
+	"SDL_config-aarch64.h"
+	"SDL_config-mips64el.h"
+	"SDL_config-mips64.h"
+	"SDL_config-mipsel.h"
+	"SDL_config-mips.h"
+	"SDL_config-riscv64.h"
+
+1526928086 /usr/include/SDL2/SDL_config-x86_64.h
+	"SDL_platform.h"
+
+1519922081 /usr/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/begin_code.h
+
+1519922081 /usr/include/SDL2/close_code.h
+
+1519922081 /usr/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922081 /usr/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1519922081 /usr/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922081 /usr/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922082 /usr/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922081 /usr/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1253040711 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMath.h
+	<stdio.h>
+	<memory.h>
+	"libTypes.h"
+	"math.h"
+
+1253379233 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcPhysObj.h
+	"dfcObj.h"
+	"libMath.h"
+
+1253076100 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcBackground.h
+	"libTypes.h"
+	"libMngGraphic.h"
+	"dfcPhysObj.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcButton.h
+	"dfcEntity.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcCamera.h
+	"libTypes.h"
+	"dfcPhysObj.h"
+
+1253076100 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcDictionary.h
+	"libTypes.h"
+	"DString.h"
+
+1253076100 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcFont.h
+	"libMngGraphic.h"
+	"dfcObj.h"
+
+1161411996 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/MngArcanaRPG.h
+	"dfcRPGEngine.h"
+
+1161412391 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngine.h
+	"DString.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxLogoDakiisoft.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1253041690 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DEntity.h
+	"dfcEntity.h"
+	"libMng3D.h"
+
+1184862571 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMng3D.h
+	"./win32DX7/libMng3D_win32dx7.h"
+	"./win32OpenGL/libMng3D_win32OpenGL.h"
+	"./gp2x/libMng3D_gp2x.h"
+	"./linux/libMng3D_linux.h"
+
+1253160427 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMng3D_linux.h
+	<math.h>
+	"libTypes.h"
+	"libMath.h"
+
+1529970081 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcLabel.h
+	"dfcPhysObj.h"
+	"dfcFont.h"
+
+1529970081 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSound.h
+	<tremor/ogg.h>
+	<tremor/ivorbisfile.h>
+	"dfcPhysObj.h"
+
+1529970081 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcMusic.h
+	<SDL.h>
+	<SDL_mixer.h>
+	"dfcSound.h"
+
+1508772699 /usr/include/SDL2/SDL_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1161411996 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/game.h
+	"dfc.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxLogoHal.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcBackground.h"
+	"game.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxPrologue.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxTitle.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxStory.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+	"game.h"
+
+1253378496 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSceneEngine.h
+	"DString.h"
+	"XMLLoader.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSceneNodes.h
+	"dfcSceneEngine.h"
+	"dfcLabel.h"
+	"dfcEntity.h"
+	"dfcMusic.h"
+
+1253378705 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxDungeon.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfc3DMaze.h"
+	"dfcSceneEngine.h"
+	"MngGUIArcana.h"
+	"game.h"
+
+1253160424 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DMaze.h
+	"dfc3DEntity.h"
+
+1253160429 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/MngGUIArcana.h
+	"dfcContext.h"
+	"dfcLabel.h"
+	"CEntGUIMenuChangeColorGauge.h"
+
+1161411996 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CEntGUIMenuChangeColorGauge.h
+	"dfcEntity.h"
+	"game.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxNewChapter.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxCity.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcSceneEngine.h"
+	"MngGUIArcana.h"
+	"game.h"
+
+1161980023 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CEntGUIMenuChangeColorGauge.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"CEntGUIMenuChangeColorGauge.h"
+	"AppArcana.h"
+
+1253378678 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxCity.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+	"CtxCity.h"
+	"CEntGUIMenuChangeColorGauge.h"
+	"AppArcana.h"
+
+1184887884 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngInput.h
+	"./win32DX7/libMngInput_win32dx7.h"
+	"./win32OpenGL/libMngInput_win32OpenGL.h"
+	"./gp2x/libMngInput_gp2x.h"
+	"./linux/libMngInput_linux.h"
+
+1529970081 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngInput_linux.h
+	<SDL.h>
+
+1184887893 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngSound.h
+	"libTypes.h"
+	"./win32DX7/libMngSound_win32dx7.h"
+	"./win32OpenGL/libMngSound_win32OpenGL.h"
+	"./gp2x/libMngSound_gp2x.h"
+	"./linux/libMngSound_linux.h"
+
+1530010823 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngSound_linux.h
+	<SDL_audio.h>
+	<SDL_mixer.h>
+
+1161980124 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxLogoDakiisoft.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"CtxLogoDakiisoft.h"
+	"AppArcana.h"
+
+1530054560 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxDungeon.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxDungeon.h"
+	"CEntGUIMenuChangeColorGauge.h"
+	"AppArcana.h"
+
+1530055673 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxOvermap.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxOvermap.h"
+	"AppArcana.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxOvermap.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1530055839 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxLogoHal.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxLogoHal.h"
+	"AppArcana.h"
+
+1530055839 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxNewChapter.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxNewChapter.h"
+	"AppArcana.h"
+
+1530055839 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxPrologue.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxPrologue.h"
+	"AppArcana.h"
+
+1530055860 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxShop.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxShop.h"
+	"AppArcana.h"
+
+1252988769 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxShop.h
+	"dfcContext.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"game.h"
+
+1530055860 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxStory.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxStory.h"
+	"AppArcana.h"
+
+1530055860 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/CtxTitle.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"CtxTitle.h"
+	"AppArcana.h"
+
+1161980187 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/MngArcanaRPG.cpp
+	"lib.h"
+	"libMacros.h"
+	"MngArcanaRPG.h"
+	"MngArcanaRPGItems.h"
+
+1161411996 /home/apetit/Work/Dakiisoft/Code/Games/Arcana/MngArcanaRPGItems.h
+	"dfcRPGEngineItems.h"
+	"dfcRPGEngineEntities.h"
+	"dfcRPGEngineSpells.h"
+	"AppArcana.h"
+
+1161904734 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineItems.h
+	"dfcRPGEngine.h"
+
+1161921091 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineEntities.h
+	"dfcRPGEngine.h"
+
+1167334227 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineSpells.h
+	"dfcRPGEngine.h"
+
+1253378663 source:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/MngGUIArcana.cpp
+	"lib.h"
+	"MngGUIArcana.h"
+	"AppArcana.h"
+	"libMngInput.h"
+
+1529686562 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DEntity.cpp
+	"lib.h"
+	"libMath.h"
+	"libMacros.h"
+	"libMngGraphic.h"
+	"libMng3D.h"
+	"dfc3DEntity.h"
+	"dfcCamera.h"
+
+1253378662 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DMaze.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"libMngGraphic.h"
+	"libMng3D.h"
+	"libMngResIO.h"
+	"dfc3DMaze.h"
+	"dfcCamera.h"
+	"dfcFont.h"
+
+1256285626 /home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngResIO.h
+	"libTypes.h"
+
+1253041722 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DSprite.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"libMngGraphic.h"
+	"libMng3D.h"
+	"libMngResIO.h"
+	"dfc3DSprite.h"
+	"dfcCamera.h"
+	"dfcFont.h"
+
+1253041690 /home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfc3DSprite.h
+	"dfc3DEntity.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcApp.cpp
+	<sys/time.h>
+	<unistd.h>
+	"lib.h"
+	"libMacros.h"
+	"dfcApp.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"libMng3D.h"
+
+1253160424 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcBackground.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcBackground.h"
+	"dfcCamera.h"
+	"dfcApp.h"
+	"libMngResIO.h"
+
+1253160425 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcButton.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngGraphic.h"
+	"dfcButton.h"
+	"dfcContext.h"
+
+1253378663 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcCamera.cpp
+	"lib.h"
+	"libTypes.h"
+	"libMath.h"
+	"libMng3D.h"
+	"libMngGraphic.h"
+	"dfcCamera.h"
+	"dfcCamera.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcContext.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"libMngInput.h"
+	"libMngSound.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcSceneEngine.h"
+	"dfcContext.h"
+	"dfcApp.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfc3DMaze.h"
+	"dfcLabel.h"
+	"dfcButton.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+
+1253076146 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcDictionary.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcDictionary.h"
+
+1253160427 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcEntity.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngGraphic.h"
+	"dfcEntity.h"
+	"dfcCamera.h"
+	"libMath.h"
+	"libMngSound.h"
+	"dfcApp.h"
+	"dfcContext.h"
+	"dfc3DEntity.h"
+	"dfcLabel.h"
+	"dfcButton.h"
+	"libMngInput.h"
+	"libMngResIO.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcFont.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngGraphic.h"
+	"dfcFont.h"
+	"libMngResIO.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcLabel.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMngGraphic.h"
+	"dfcPhysObj.h"
+	"dfcLabel.h"
+	"dfcCamera.h"
+	"dfcDictionary.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcMusic.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngSound.h"
+	"dfcMusic.h"
+	"dfcContext.h"
+
+1253160424 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcObj.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcObj.h"
+	"dfcApp.h"
+	"dfcPhysObj.h"
+	"dfcSceneEngine.h"
+	"dfcSound.h"
+	"dfcMusic.h"
+	"dfcBackground.h"
+	"dfcEntity.h"
+	"dfc3DEntity.h"
+	"dfc3DMaze.h"
+	"dfc3DSprite.h"
+	"dfcLabel.h"
+	"dfcButton.h"
+
+1253379286 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcPhysObj.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"dfcPhysObj.h"
+	"dfcApp.h"
+
+1161412391 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngine.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcRPGEngine.h"
+	"dfcRPGEngineEntities.h"
+	"dfcRPGEngineSpells.h"
+	"dfcRPGEngineItems.h"
+
+1163132828 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineEntities.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcRPGEngineEntities.h"
+	"dfcDictionary.h"
+
+1161412391 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineItems.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcRPGEngineItems.h"
+
+1161412391 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcRPGEngineSpells.cpp
+	"lib.h"
+	"libMacros.h"
+	"dfcRPGEngineSpells.h"
+
+1253378496 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSceneEngine.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+
+1253160425 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSceneNodes.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMath.h"
+	"libMngInput.h"
+	"dfcSceneEngine.h"
+	"dfcSceneNodes.h"
+	"dfcApp.h"
+	"dfcDictionary.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/dfc/dfcSound.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngSound.h"
+	"libMngResIO.h"
+	"dfcSound.h"
+	"dfcContext.h"
+
+1177641352 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/helper/DString.cpp
+	"DString.h"
+	"lib.h"
+	"libMacros.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/helper/XMLLoader.cpp
+	"lib.h"
+	"libMacros.h"
+	"XMLLoader.h"
+	"DString.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMath.cpp
+	"libMath.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngIO.cpp
+	"lib.h"
+	"libMngIO.h"
+	"libMacros.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/libMngResIO.cpp
+	<SDL_image.h>
+	"lib.h"
+	"libMacros.h"
+	"libMngResIO.h"
+	"libMngGraphic.h"
+	"libMngSound.h"
+
+1519932786 /usr/include/SDL2/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1529686127 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMng3D_linux.cpp
+	"lib.h"
+	"libMacros.h"
+	"libTypes.h"
+	"libMng3D.h"
+	"libMngGraphic.h"
+
+1530060018 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngGraphic_linux.cpp
+	"lib.h"
+	"libMacros.h"
+	"libMngGraphic.h"
+	"libMng3D.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngInput_linux.cpp
+	<unistd.h>
+	<fcntl.h>
+	<linux/joystick.h>
+	"lib.h"
+	"libTypes.h"
+	"libMacros.h"
+	"libMngInput.h"
+	"libMngGraphic.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libMngSound_linux.cpp
+	<SDL.h>
+	"lib.h"
+	"libTypes.h"
+	"libMacros.h"
+	"libMngSound.h"
+	"libMngInput.h"
+	"dfcMusic.h"
+
+1529970081 source:/home/apetit/Work/Dakiisoft/Code/dakiilib/lib/linux/libSystem_linux.cpp
+	"lib.h"
+	"libTypes.h"
+	"libMacros.h"
+	"libMng3D.h"
+	"libMngGraphic.h"
+	"libMngInput.h"
+	"libMngIO.h"
+	"libMngResIO.h"
+	"libMngSound.h"
+	"dfcApp.h"
+

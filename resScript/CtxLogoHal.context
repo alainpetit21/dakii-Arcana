@@ -1,0 +1,16 @@
+<CONTEXT>
+	<NB_OBJECTS>2</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CBackground</TYPE>
+		<ID>BkLogoHal</ID>
+		<FILENAME>BkLogoHal.background</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>100</POS_Z>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CMusic</TYPE>
+		<ID>MusHalLogo</ID>
+		<FILENAME>MusLogoHal.sound</FILENAME>
+	</OBJECT>
+</CONTEXT>

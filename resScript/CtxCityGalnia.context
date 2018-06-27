@@ -1,0 +1,21 @@
+<CONTEXT>
+	<NB_OBJECTS>3</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CBackground</TYPE>
+		<ID>BkCityGalnia</ID>
+		<FILENAME>BkCityGalnia.background</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>100</POS_Z>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CPhysObj</TYPE>
+		<ID>PhysObjGUI</ID>
+		<FILENAME>GUI.physObj</FILENAME>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CMusic</TYPE>
+		<ID>MusTown</ID>
+		<FILENAME>MusTown.sound</FILENAME>
+	</OBJECT>
+</CONTEXT>

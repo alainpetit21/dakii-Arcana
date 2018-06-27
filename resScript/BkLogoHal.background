@@ -1,0 +1,31 @@
+<BACKGROUND>
+	<NB_LAYERS>4</NB_LAYERS>
+	<LAYER>
+		<FILENAME>Back/HalLogo00.png</FILENAME>
+		<ON>1</ON>
+		<POS_X>320</POS_X>
+		<POS_Y>240</POS_Y>
+		<POS_Z>100</POS_Z>
+	</LAYER>
+	<LAYER>
+		<FILENAME>Back/HalLogo01.png</FILENAME>
+		<ON>1</ON>
+		<POS_X>320</POS_X>
+		<POS_Y>240</POS_Y>
+		<POS_Z>99</POS_Z>
+	</LAYER>
+	<LAYER>
+		<FILENAME>Back/HalLogo02.png</FILENAME>
+		<ON>1</ON>
+		<POS_X>320</POS_X>
+		<POS_Y>240</POS_Y>
+		<POS_Z>98</POS_Z>
+	</LAYER>
+	<LAYER>
+		<FILENAME>Back/HalLogo03.png</FILENAME>
+		<ON>1</ON>
+		<POS_X>320</POS_X>
+		<POS_Y>240</POS_Y>
+		<POS_Z>97</POS_Z>
+	</LAYER>
+</BACKGROUND>

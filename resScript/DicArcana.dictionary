@@ -1,0 +1,686 @@
+<DICTIONARY>
+	<NB_LANGUAGES>2</NB_LANGUAGES>
+	<NB_ENTRY>84</NB_ENTRY>
+
+	<LANGUAGE>
+		<NAME>English</NAME>
+
+		<ENTRY>
+			<MAP>Prologue</MAP>
+			<TXT>This is an historic land. A land where, from time immemorial,\nancient legends have been\npassed down from generation\nto generation. Some, in order\nto gain fame and fortune, have\nvisited this land to fulfull their\ndreams. A few realized their\nambitions... most were ruined.\nPeople call this land Elemen.</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleNewGame</MAP>
+			<TXT>NEW GAME</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleContinue</MAP>
+			<TXT>CONTINUE</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleCopyright</MAP>
+			<TXT>@1992 HAL AMERICA INC.\n@2006 DAKIISOFT</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story000</MAP>
+			<TXT>According to the ancient legends, men of valors established 6 kingdoms on the island of Elemen.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story001</MAP>
+			<TXT>Disputes broke out constantly among these six kingdoms, but, if you look at the history of the land, you can see that they were treated as minor matter by the people of these kingdoms.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story002</MAP>
+			<TXT>But in time these seemingly minor disputes spilled over and became as a storm over the land.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story003</MAP>
+			<TXT>Eventually the conflit spread out over the whole island, with each of the six kingdoms fighting for control of the island.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story004</MAP>
+			<TXT>This continued on for many years. The cities were turned to ruins, and the countryside was laid to waste.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story005</MAP>
+			<TXT>Bizance was the capital and the largest city in Lexford. Galneon, one of the court magicians, launched a coup against King Wagnall.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story006</MAP>
+			<TXT>King Wagnall was killed in the conflit, and the evil Galneon ascended to the throne. In the conflit the King's two daughters disappeared. Their whereabouts is still unknown.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story007</MAP>
+			<TXT>Ten years have passed since this event.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Chapter1</MAP>
+			<TXT>Chapter 1\nThe Journey Begins</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story008</MAP>
+			<TXT>The days passed peacefully for Rooks, living in the village of Galia.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story009</MAP>
+			<TXT>His parents had long ago passed on to the next world.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story010</MAP>
+			<TXT>But during the time of the rebellions his parents and a few soldiers\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story011</MAP>
+			<TXT>led the townspeople out of the village into the woods to await reinforcements.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story012</MAP>
+			<TXT>In the meantime, a friend of Rooks' father betrayed the survivors,\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story013</MAP>
+			<TXT>leading to the unfortunate demise of Rooks' parents.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story014</MAP>
+			<TXT>Taking the final magic card left to him by his parents,\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story015</MAP>
+			<TXT>Rooks began training everyday to learn the ways of the Card Masters.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story016</MAP>
+			<TXT>\n"You look healthy."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story017</MAP>
+			<TXT>Rooks\n"What, who's there?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story018</MAP>
+			<TXT>Rooks\n"Ariel, is that Ariel?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story019</MAP>
+			<TXT>Ariel\n"I haven't seen you since you were a boy."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story020</MAP>
+			<TXT>Rooks\n"Yes."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story021</MAP>
+			<TXT>Ariel\n"What happened?\nHave you been avoiding me?\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story022</MAP>
+			<TXT>Didn't our father fight together as Knights of Lexford?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story023</MAP>
+			<TXT>Rooks\n"But your father and Galneon..."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story024</MAP>
+			<TXT>Ariel\n"I have a different opinion from my father."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story025</MAP>
+			<TXT>Rooks\n"Yes, But let's not discuss that.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story026</MAP>
+			<TXT>Who is the girl?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story027</MAP>
+			<TXT>Ariel\n"She is Teefa, my apprentice."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story028</MAP>
+			<TXT>Teefa\n"The pleasure is mine."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story029</MAP>
+			<TXT>Ariel\n"There is something important I want you to do for me."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story030</MAP>
+			<TXT>Rooks\n"What?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story031</MAP>
+			<TXT>Ariel\n"It's not just a coincidence that we meet today.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story032</MAP>
+			<TXT>Are you aware the dark spirits have arisen in Lexford?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story033</MAP>
+			<TXT>Rooks\n"Yes."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story034</MAP>
+			<TXT>Ariel\n"I've been trying to find the reason for this.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story035</MAP>
+			<TXT>There is chaos at the temple in Balnia. It would seem that they are being summoned there."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story036</MAP>
+			<TXT>Rooks\n"Then at whatever cost we must seal the passageway."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story037</MAP>
+			<TXT>Ariel\n"The only once that can do this is you, Rooks. You are the only Card Master remaining.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story038</MAP>
+			<TXT>Will you do it?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story039</MAP>
+			<TXT>Rooks\n"Yes, I'll try."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story040</MAP>
+			<TXT>Ariel\n"Thank you Rooks. We would be forever in your debt.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story041</MAP>
+			<TXT>I wish I could join you, but my destiny leads me elsewhere.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story042</MAP>
+			<TXT>Please take Teefa with you."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story043</MAP>
+			<TXT>Teefa\n"I know the way to the Temple."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story044</MAP>
+			<TXT>Ariel\n"I'll leave this up to you. Rooks..uh .. Card Master..."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>TeefaJoins01</MAP>
+			<TXT>Teefa joins the group.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Galnia</MAP>
+			<TXT>Galnia</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>BalniaTemple1</MAP>
+			<TXT>Balnia Temple 1F</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuLook</MAP>
+			<TXT>Look</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMagic</MAP>
+			<TXT>Magic</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuEquipment</MAP>
+			<TXT>Equipment</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuCall</MAP>
+			<TXT>Call</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuAbility</MAP>
+			<TXT>Ability</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuInventory</MAP>
+			<TXT>Inventory</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMap</MAP>
+			<TXT>Map</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuColor</MAP>
+			<TXT>Color</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuFormation</MAP>
+			<TXT>Formation</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMoney</MAP>
+			<TXT>Money</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorRed</MAP>
+			<TXT>Red</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorGreen</MAP>
+			<TXT>Green</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorBlue</MAP>
+			<TXT>Blue</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMHerbs</MAP>
+			<TXT>Herbs</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMMedicine</MAP>
+			<TXT>Medicine</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMSleepingBag</MAP>
+			<TXT>Sleeping Bag</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMReturnRing</MAP>
+			<TXT>Return Ring</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMSilverFlask</MAP>
+			<TXT>Silver Flask</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMRestoreHoney</MAP>
+			<TXT>Restore Honey</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMMPHoney</MAP>
+			<TXT>MP Honey</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMTent</MAP>
+			<TXT>Tent</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMStrengthHoney</MAP>
+			<TXT>Strength Honey</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMIntelligenceHoney</MAP>
+			<TXT>Intelligence Honey</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMEnduranceHoney</MAP>
+			<TXT>Endurance Honey</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMWater</MAP>
+			<TXT>Water</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMElixir</MAP>
+			<TXT>Elixir</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMFoodA</MAP>
+			<TXT>Food A</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMFoodB</MAP>
+			<TXT>Food B</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYRooks</MAP>
+			<TXT>Rooks</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYSylph</MAP>
+			<TXT>Sylph</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYTeefa</MAP>
+			<TXT>Teefa</TXT>
+		</ENTRY>
+	</LANGUAGE>
+
+	<LANGUAGE>
+		<NAME>Francais</NAME>
+
+		<ENTRY>
+			<MAP>Prologue</MAP>
+			<TXT>Cest une terre legendaire. Un terre ou, au dela du temp memorable, danciennes legende se sont passe de generation en generation. Certains, afin de se procurer plus de gloire ou de fortune, ont visite ces terres pour accomplir leurs reves. Peu sont ceux qui ont realiser leurs ambition... la plupart s'en sont ruinee. Les gens appelle cette terre Elemen.</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleNewGame</MAP>
+			<TXT>NOUVELLE PARTIE</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleContinue</MAP>
+			<TXT>CONTINUER</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>LblTitleCopyright</MAP>
+			<TXT>@1992 HAL AMERICA INC.\n@2006 DAKIISOFT</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story000</MAP>
+			<TXT>Si l'on se fie au legendes anciennes, des hommes de valeur on etablis 6 royaume sur l'ile d'Elemen.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story001</MAP>
+			<TXT>Des conflit ne necessait d'interposer ces six royaume, mais, en regardant dans son ensemble, vous pouvez voir que ces conflits etait considere comme mineurs par le peuple des royaumes.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story002</MAP>
+			<TXT>Mais, avec le temps ils ont pris de l'empleur et a degenere tel une tempete.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story003</MAP>
+			<TXT>Eventuellement le conflit s'est etendu a toute l'ile, avec chacune des six nations se batant pour le control de l'ile.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story004</MAP>
+			<TXT>Ca continuait pendant plusieurs annees. Les villes etait devenus des ruines, et les plaines de veritable pertes.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story005</MAP>
+			<TXT>Bizance etait la capitale et la plus importante ville de Lexford. Galneon, un des magicien de la cour, a lance un coup d'etat contre le roi Wagnall.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story006</MAP>
+			<TXT>Le roi Wagnall fut tue durant le conflit, and the diabolique Galneon s'est assis sur le trone. Durant le conflit, les deux filles du roi on disparues. Leur allees et venues sont inconnus.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story007</MAP>
+			<TXT>Dix ans se s'ont passes depuis ces evenements.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Chapter1</MAP>
+			<TXT>Chapitre 1\nL'Aventure commence</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story008</MAP>
+			<TXT>Les jours passent paisiblement pour Rooks, vivant dans le village de Galia.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story009</MAP>
+			<TXT>Ses parents ont atteint l'autre monde il y a de cela bien longtemp.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story010</MAP>
+			<TXT>Mais, duant les temps de la rebellions, ces parents et quelques autres soldats\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story011</MAP>
+			<TXT>ont conduit les villageois hors du village, dans les bois, pour y attendres des renforts.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story012</MAP>
+			<TXT>Pendant ce temps, un ami du pere de Rooks a traihi les survivants,\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story013</MAP>
+			<TXT>amenant le triste destin des parents de Rooks.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story014</MAP>
+			<TXT>Prenant la derniere carte magique donne par ces parents,\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story015</MAP>
+			<TXT>Rooks s'entraina chaque jours pour maitriser l'art des Maitres des Cartes.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story016</MAP>
+			<TXT>\n"Tu as l'air en pleine forme."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story017</MAP>
+			<TXT>Rooks\n"Pardon, qui est-ce?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story018</MAP>
+			<TXT>Rooks\n"Ariel, est-ce que c'est toi Ariel?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story019</MAP>
+			<TXT>Ariel\n"Je ne t'es pas vu depuis que tu etais jeune garcon."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story020</MAP>
+			<TXT>Rooks\n"Oui."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story021</MAP>
+			<TXT>Ariel\n"Qu'arrive-t-il?\nEssaies-tu de m'eviter?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story022</MAP>
+			<TXT>"Nos peres ont bien combattus cote a cote en tant que chevalier de Lexford."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story023</MAP>
+			<TXT>Rooks\n"Mais pour ton pere et Galneon..."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story024</MAP>
+			<TXT>Ariel\n"J'ai une opinion different de celle de mon pere."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story025</MAP>
+			<TXT>Rooks\n"Oui, ne parlons pas de cela\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story026</MAP>
+			<TXT>Qui est la fille?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story027</MAP>
+			<TXT>Ariel\n"Elle se nomme Teefa, mon appentrie."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story028</MAP>
+			<TXT>Teefa\n"Tout le plaisir est pour moi."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story029</MAP>
+			<TXT>Ariel\n"Il y a quelque chose d'important que je veux que tu fasse pour moi."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story030</MAP>
+			<TXT>Rooks\n"Quoi?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story031</MAP>
+			<TXT>Ariel\n"Ce n'est pas qu'une coincidence qu'on se croise aujourd'hui.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story032</MAP>
+			<TXT>Es tu au courant que les esprit malefique sont revenus dans Lexford?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story033</MAP>
+			<TXT>Rooks\n"Oui."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story034</MAP>
+			<TXT>Ariel\n"J'essaie de trouver la raison de cela.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story035</MAP>
+			<TXT>Il y a un chaos au temple de Balnia. Il semble qu'ils ont ete incante a partir de la."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story036</MAP>
+			<TXT>Rooks\n"Dans ce cas nous devons scelle le passage a tout prix."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story037</MAP>
+			<TXT>Ariel\n"Le seul capable de faire cela c'est toi, Rooks. Tu es le seul Maitre des cartes restant.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story038</MAP>
+			<TXT>Va tu le faire?"\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story039</MAP>
+			<TXT>Rooks\n"Oui, j'essairai."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story040</MAP>
+			<TXT>Ariel\n"Merci Rooks. Nous allons t'en devoir beaucoup apres cela.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story041</MAP>
+			<TXT>Je voudrais bien vous accompagner, mais ma destinee m'attent ailleur.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story042</MAP>
+			<TXT>Prenez Teefa avec vous."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story043</MAP>
+			<TXT>Teefa\n"Je connais le chemin jusqu'au le temple."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Story044</MAP>
+			<TXT>Ariel\n"Je laisse cela entre tes mains. Rooks.. heu.. Maitre des cartes..."\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>TeefaJoins01</MAP>
+			<TXT>Teefa se joint au groupe.\n</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>Galnia</MAP>
+			<TXT>Galnia</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>BalniaTemple1</MAP>
+			<TXT>Balnia Temple 1F</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuLook</MAP>
+			<TXT>Regarder</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMagic</MAP>
+			<TXT>Magie</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuEquipment</MAP>
+			<TXT>Equipement</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuCall</MAP>
+			<TXT>Appeller</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuAbility</MAP>
+			<TXT>Abilite</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuInventory</MAP>
+			<TXT>Inventaire</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMap</MAP>
+			<TXT>Carte</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuColor</MAP>
+			<TXT>Couleur</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuFormation</MAP>
+			<TXT>Formation</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuMoney</MAP>
+			<TXT>Argent</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorRed</MAP>
+			<TXT>Rouge</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorGreen</MAP>
+			<TXT>Vert</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>GUIMenuChangeColorBlue</MAP>
+			<TXT>Bleu</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMHerbs</MAP>
+			<TXT>Herbes</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMMedicine</MAP>
+			<TXT>Medicament</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMSleepingBag</MAP>
+			<TXT>Sac a couchage</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMReturnRing</MAP>
+			<TXT>Anneau de teleportation</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMSilverFlask</MAP>
+			<TXT>Flacon d'argent</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMRestoreHoney</MAP>
+			<TXT>Miel de HP</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMMPHoney</MAP>
+			<TXT>Miel de MP</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMTent</MAP>
+			<TXT>Tente</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMStrengthHoney</MAP>
+			<TXT>Miel de Force</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMIntelligenceHoney</MAP>
+			<TXT>Miel d'Intelligence</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMEnduranceHoney</MAP>
+			<TXT>Miel d'Endurance</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMWater</MAP>
+			<TXT>Eau</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMElixir</MAP>
+			<TXT>Elixir</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMFoodA</MAP>
+			<TXT>Plat A</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ITEMFoodB</MAP>
+			<TXT>Plat B</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYRooks</MAP>
+			<TXT>Rooks</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYSylph</MAP>
+			<TXT>Sylph</TXT>
+		</ENTRY>
+		<ENTRY>
+			<MAP>ENTITYTeefa</MAP>
+			<TXT>Teefa</TXT>
+		</ENTRY>
+	</LANGUAGE>
+</DICTIONARY>

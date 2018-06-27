@@ -1,0 +1,21 @@
+<CONTEXT>
+	<NB_OBJECTS>3</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CMaze3D</TYPE>
+		<ID>MazeBalniaTemple</ID>
+		<FILENAME>MazeBalniaTemple.3dmaze</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>0</POS_Z>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CPhysObj</TYPE>
+		<ID>PhysObjGUI</ID>
+		<FILENAME>GUI.physObj</FILENAME>
+	</OBJECT>
+	<OBJECT>
+		<TYPE>CLSID_CMusic</TYPE>
+		<ID>MusDungeonTest</ID>
+		<FILENAME>MusDungeonTest.sound</FILENAME>
+	</OBJECT>
+</CONTEXT>

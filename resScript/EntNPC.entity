@@ -1,0 +1,24 @@
+<ENTITY>
+	<NB_FRAMES>2</NB_FRAMES>
+	<FRAME>
+		<FILENAME>Sprite/Game/EntCharBattle00_00.tga</FILENAME>
+		<POS_X>50</POS_X>
+		<POS_Y>67</POS_Y>
+	</FRAME>
+	<FRAME>
+		<FILENAME>Sprite/Game/EntCharBattle01_00.tga</FILENAME>
+		<POS_X>50</POS_X>
+		<POS_Y>67</POS_Y>
+	</FRAME>
+
+	<NB_STATES>2</NB_STATES>
+	<STATE>
+		<FLAG>0</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+	<STATE>
+		<FLAG>1</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+
+</ENTITY>

@@ -1,0 +1,11 @@
+<CONTEXT>
+	<NB_OBJECTS>1</NB_OBJECTS>
+	<OBJECT>
+		<TYPE>CLSID_CBackground</TYPE>
+		<ID>BkLogoDakiisoft</ID>
+		<FILENAME>BkLogoDakiisoft.background</FILENAME>
+		<POS_X>0</POS_X>
+		<POS_Y>0</POS_Y>
+		<POS_Z>100</POS_Z>
+	</OBJECT>
+</CONTEXT>

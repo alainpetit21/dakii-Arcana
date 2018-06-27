@@ -1,0 +1,10 @@
+<BACKGROUND>
+	<NB_LAYERS>1</NB_LAYERS>
+	<LAYER>
+		<FILENAME>Back/DakiisoftLogo.png</FILENAME>
+		<ON>1</ON>
+		<POS_X>320</POS_X>
+		<POS_Y>240</POS_Y>
+		<POS_Z>100</POS_Z>
+	</LAYER>
+</BACKGROUND>

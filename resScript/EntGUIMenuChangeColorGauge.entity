@@ -1,0 +1,33 @@
+<ENTITY>
+	<NB_FRAMES>3</NB_FRAMES>
+	<FRAME>
+		<FILENAME>Sprite/GUI/EntGUIMenuChangeColorGauge00.png</FILENAME>
+		<POS_X>7</POS_X>
+		<POS_Y>14</POS_Y>
+	</FRAME>
+	<FRAME>
+		<FILENAME>Sprite/GUI/EntGUIMenuChangeColorGauge01.png</FILENAME>
+		<POS_X>7</POS_X>
+		<POS_Y>14</POS_Y>
+	</FRAME>
+	<FRAME>
+		<FILENAME>Sprite/GUI/EntGUIMenuChangeColorGauge02.png</FILENAME>
+		<POS_X>7</POS_X>
+		<POS_Y>14</POS_Y>
+	</FRAME>
+
+	<NB_STATES>3</NB_STATES>
+	<STATE>
+		<FLAG>0</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+	<STATE>
+		<FLAG>1</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+	<STATE>
+		<FLAG>2</FLAG>
+		<SPEED>0</SPEED>
+	</STATE>
+
+</ENTITY>
