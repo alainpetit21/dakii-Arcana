@@ -1,5 +1,5 @@
 TODO
- - Remake of Arcana for the SNES, at least the Scenaric part of the Intro
+ - Remake of Arcana for the SNES, at least the Scenaric part of the Intro.
 
 
 HOW TO COMPILE
