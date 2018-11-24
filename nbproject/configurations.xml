@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>../Test/graphWork</itemPath>
+      <itemPath>resInput</itemPath>
+      <itemPath>resScript</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>src/AppArcana.cpp</itemPath>
+      <itemPath>src/AppArcana.h</itemPath>
+      <itemPath>src/CEntGUIMenuChangeColorGauge.cpp</itemPath>
+      <itemPath>src/CEntGUIMenuChangeColorGauge.h</itemPath>
+      <itemPath>src/CtxCity.cpp</itemPath>
+      <itemPath>src/CtxCity.h</itemPath>
+      <itemPath>src/CtxDungeon.cpp</itemPath>
+      <itemPath>src/CtxDungeon.h</itemPath>
+      <itemPath>src/CtxLogoDakiisoft.cpp</itemPath>
+      <itemPath>src/CtxLogoDakiisoft.h</itemPath>
+      <itemPath>src/CtxLogoHal.cpp</itemPath>
+      <itemPath>src/CtxLogoHal.h</itemPath>
+      <itemPath>src/CtxNewChapter.cpp</itemPath>
+      <itemPath>src/CtxNewChapter.h</itemPath>
+      <itemPath>src/CtxOvermap.cpp</itemPath>
+      <itemPath>src/CtxOvermap.h</itemPath>
+      <itemPath>src/CtxPrologue.cpp</itemPath>
+      <itemPath>src/CtxPrologue.h</itemPath>
+      <itemPath>src/CtxShop.cpp</itemPath>
+      <itemPath>src/CtxShop.h</itemPath>
+      <itemPath>src/CtxStory.cpp</itemPath>
+      <itemPath>src/CtxStory.h</itemPath>
+      <itemPath>src/CtxTitle.cpp</itemPath>
+      <itemPath>src/CtxTitle.h</itemPath>
+      <itemPath>src/MngArcanaRPG.cpp</itemPath>
+      <itemPath>src/MngArcanaRPG.h</itemPath>
+      <itemPath>src/MngArcanaRPGItems.h</itemPath>
+      <itemPath>src/MngArcanaRPGSpells.h</itemPath>
+      <itemPath>src/MngGUIArcana.cpp</itemPath>
+      <itemPath>src/MngGUIArcana.h</itemPath>
+      <itemPath>src/game.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>src/README.md</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>src</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>src</pElem>
+            <pElem>../../Libs/dakiilib/src/dfc</pElem>
+            <pElem>../../Libs/dakiilib/src/helper</pElem>
+            <pElem>../../Libs/dakiilib/src/lib</pElem>
+          </incDir>
+          <commandLine>`sdl2-config --cflags` -fexceptions</commandLine>
+          <preprocessorList>
+            <Elem>_DEBUG</Elem>
+            <Elem>_LINUX</Elem>
+          </preprocessorList>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>../../Libs/dakiilib/dist/Debug/GNU-Linux</pElem>
+            <pElem>/usr/lib64</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>dakiilib</linkerLibLibItem>
+            <linkerLibFileItem>/usr/lib64/libSDL2_image.so</linkerLibFileItem>
+            <linkerLibFileItem>/usr/lib64/libSDL2_mixer.so</linkerLibFileItem>
+          </linkerLibItems>
+          <commandLine>`sdl2-config --libs`</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="../Test/graphWork" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="resInput" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="resScript" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/AppArcana.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/AppArcana.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CEntGUIMenuChangeColorGauge.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/CEntGUIMenuChangeColorGauge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxCity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxCity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxDungeon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxDungeon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxLogoDakiisoft.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxLogoDakiisoft.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxLogoHal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxLogoHal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxNewChapter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxNewChapter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxOvermap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxOvermap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxPrologue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxPrologue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxShop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxShop.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxStory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxStory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxTitle.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxTitle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPG.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPG.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPGItems.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPGSpells.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngGUIArcana.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/MngGUIArcana.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/game.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../Test/graphWork" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="resInput" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="resScript" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/AppArcana.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/AppArcana.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CEntGUIMenuChangeColorGauge.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/CEntGUIMenuChangeColorGauge.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxCity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxCity.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxDungeon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxDungeon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxLogoDakiisoft.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxLogoDakiisoft.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxLogoHal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxLogoHal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxNewChapter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxNewChapter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxOvermap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxOvermap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxPrologue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxPrologue.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxShop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxShop.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxStory.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxStory.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/CtxTitle.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/CtxTitle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPG.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPG.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPGItems.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngArcanaRPGSpells.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/MngGUIArcana.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/MngGUIArcana.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/game.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

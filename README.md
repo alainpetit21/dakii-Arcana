@@ -19,23 +19,29 @@ HOW TO COMPILE
   - sudo dnf install glut-devel
   - sudo dnf install automake
   - sudo yum groupinstall "X Software Development"
+  
   - Under Compiler setting, Other compiler options :
     - -fexceptions
     - `sdl2-config --cflags`
+    
   - Under Compiler setting, #defines :
     - _LINUX
     - _DEBUG for debug build target
     - NDEBUG for Release build target
+    
   - Under Linker Setting, Link librairies
     - libSDL2_image
     - libSDL2_mixer
+    
   - Under Linker Setting, Other linker options :
     - `sdl2-config --libs`
+    
   - Under Search Directories, under Compiler :
     -  ../../dakiilib/lib
     - ../../dakiilib/dfc
     - ../../dakiilib/helper
     - /usr/include/SDL2
+    
   - add in Search Directories, under Linker :
     - /usr/lib64
 
