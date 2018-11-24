@@ -43,5 +43,6 @@ HOW TO COMPILE
     `sdl2-config --libs`    
 
 
+
 TODO
 - fix crash bugs in gradual labels
