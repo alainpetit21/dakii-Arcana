@@ -86,6 +86,7 @@
             <pElem>../../Libs/dakiilib/dist/Debug/GNU-Linux</pElem>
             <pElem>/usr/lib64</pElem>
           </linkerAddLib>
+          <additionalDep>../../Libs/dakiilib/dist/Debug/GNU-Linux</additionalDep>
           <linkerLibItems>
             <linkerLibLibItem>dakiilib</linkerLibLibItem>
             <linkerLibFileItem>/usr/lib64/libSDL2_image.so</linkerLibFileItem>
@@ -93,6 +94,18 @@
           </linkerLibItems>
           <commandLine>`sdl2-config --libs`</commandLine>
         </linkerTool>
+        <requiredProjects>
+          <makeArtifact PL="../../Libs/dakiilib"
+                        CT="3"
+                        CN="Debug"
+                        AC="true"
+                        BL="false"
+                        WD="../../Libs/dakiilib"
+                        BC="${MAKE}  -f Makefile CONF=Debug"
+                        CC="${MAKE}  -f Makefile CONF=Debug clean"
+                        OP="${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/libdakiilib.a">
+          </makeArtifact>
+        </requiredProjects>
       </compileType>
       <item path="../Test/graphWork" ex="false" tool="3" flavor2="0">
       </item>

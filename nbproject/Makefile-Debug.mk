@@ -71,6 +71,8 @@ LDLIBSOPTIONS=-L../../Libs/dakiilib/dist/Debug/GNU-Linux -L/usr/lib64 -ldakiilib
 .build-conf: ${BUILD_SUBPROJECTS}
 	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/arcana
 
+${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/arcana: ../../Libs/dakiilib/dist/Debug/GNU-Linux
+
 ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/arcana: /usr/lib64/libSDL2_image.so
 
 ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/arcana: /usr/lib64/libSDL2_mixer.so

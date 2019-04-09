@@ -7,9 +7,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/AppArcana.application</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxStory.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/GUI.physObj</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxPrologue.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/LblPrologue.label</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/EntGUIMenuChangeColorGauge.entity</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CEntGUIMenuChangeColorGauge.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxLogoDakiisoft.h</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxLogoHal.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/CtxPrologue.context</file>
             <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/AppArcana.cpp</file>
-            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/README.md</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/GUIMenuChangeColor.physObj</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxCity.h</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxLogoDakiisoft.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/MngGUIArcana.h</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/DicArcana.dictionary</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/MngGUIArcana.cpp</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/CtxCityGalnia.context</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxLogoHal.h</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/resScript/EntGUIPane.entity</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CEntGUIMenuChangeColorGauge.h</file>
+            <file>file:/home/apetit/Work/Dakiisoft/Code/Games/Arcana/src/CtxCity.cpp</file>
         </group>
     </open-files>
 </project-private>
